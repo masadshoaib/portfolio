@@ -1,7 +1,7 @@
 # Data Scientist x PM
 
-## Skills:
-**Machine Learning & Analytics:** _Scikit-Learn, SciPy, PyTorch, Spark ML/SQL, HDFS, Map-Reduce, AWS, STATA, Tableau, Excel_
+## Skills
+**Machine Learning & Analytics:** _Scikit-Learn, SciPy, PyTorch, Spark ML/SQL, HDFS, Map-Reduce, STATA, Tableau, Excel_
 
 **Programming:** _Python (NumPy, Pandas, Scrapy, Beautiful Soup, Seaborn, Matplotlib, Altair, Dockers, Streamlit), SQL, Java_
 
