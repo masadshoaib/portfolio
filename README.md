@@ -11,7 +11,8 @@
 #### - M.S., Data Analytics | Carnegie Mellon University (_December 2023_)
   - Fulbright Scholarship (100% covered)
   - Graduation with Distinction
-  - President Heinz Analytics Club (150+ members)             		
+  - President Heinz Analytics Club (150+ members)
+                 		
 #### - B.S., Economics | Lahore University of Management Sciences (_May 2017_)
   - Bahria Town Scholarship (100% covered)
   - Graduation with Distinction
