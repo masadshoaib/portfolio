@@ -1,12 +1,10 @@
 # Data Scientist x PM
 
-### Skills:
-#### Machine Learning & Analytics: 
-Scikit-Learn, SciPy, PyTorch, Spark ML/SQL, HDFS, Map-Reduce, AWS, STATA, Tableau, Excel
-#### Programming: 
-Python (NumPy, Pandas, Scrapy, Beautiful Soup, Seaborn, Matplotlib, Altair, Dockers, Streamlit), SQL, Java
-#### Project & Product Management: 
-Asana, JIRA, ClickUp, Instagantt (Gantt Charts), Figma, Draw.io, PowerPoint
+#### Skills:
+_Machine Learning & Analytics: Scikit-Learn, SciPy, PyTorch, Spark ML/SQL, HDFS, Map-Reduce, AWS, STATA, Tableau, Excel_
+
+_Programming: Python (NumPy, Pandas, Scrapy, Beautiful Soup, Seaborn, Matplotlib, Altair, Dockers, Streamlit), SQL, Java_
+_Project & Product Management: Asana, JIRA, ClickUp, Instagantt (Gantt Charts), Figma, Draw.io, PowerPoint_
 
 ## Education						       		
 - M.S., Data Analytics | Carnegie Mellon University (_December 2023_)	 			        		
@@ -20,7 +18,7 @@ _Skills: GPT-4, Large Language Model (LLM), Product Management, Consulting, Cros
 - Identified and prioritized three automation opportunities, resulting in a 50% reduction in insight generation time
 - Led integration planning for large language models (LLMs) into Jacquard AI, developing a strategic roadmap in conjunction with Engineering leads to achieve a targeted 13% improvement in revenue attribution capabilities
 
-**Research Assistant @ Carnegie Mellon University - Pittsburgh, USA (_June 2023 - August 2023_)**
+**Faculty Project Officer @ Carnegie Mellon University - Pittsburgh, USA (_June 2023 - August 2023_)**
 
 _Skills: GPT-4, Large Language Model (LLM), Python_
 - Worked with Professor David Steier, former Managing Director of Data Science at Deloitte, to incorporate generative AI into Carnegie Mellon's Data Science for Product Managers course. This experience has allowed me to stay on top of the latest advancements in AI and shape curriculum for future data science leaders.
@@ -33,6 +31,22 @@ _Skills: Product Management, Project Management, Cross-functional Team Leadershi
 - Collaborated with analytics leaders at Pepsi, Coty, and P&G (across regions) to resolve data related challenges, leading to improved client satisfaction and a 40% increase in project scope and monthly recurring revenue
 - Advocated for customer needs by shaping product requirements and creating roadmaps, mock-ups, and wireframes, resulting in a 30% acceleration in product (app / dashboard) development
 - Transformed Pepsi's sales reporting by automating manual Excel reports and distilling complex results into lucid visualizations in Tableau, resulting in a 50% reduction in report preparation time and a 20% enhancement in data accuracy
+
+**Data Analyst @ North Shore Medical Center - Boston, USA (_April 2020 - March 2021_)**
+
+_Skills: Python, Data Forecasting_
+- Predicted outbreak of COVID-19 using Google Trends Data for her research “Increased internet search interest for GI symptoms may predict COVID-19 cases in US hotspots”, published in Journal of Clinical Gastro and Hepatology (impact factor: 8.549)
+
+**Chief Operating Officer @ Waseeh.com - Lahore, Pakistan (_June 2018 - August 2019_)**
+
+_Skills: E-commerce, Leadership, Communication, Team Management_
+- Executed data-centric strategies, incorporating consumer profiling and customer-focused policies such as 24/7 after-sales service, yielding a 15% boost in net profit and 17% increase in returning customers within 3 months
+- Applied KAIZEN principles in the warehouse and introduced Key Performance Indicators to track progress resulting in doubling the daily number of dispatched orders, driving substantial operational improvements and boosting productivity by 100%
+
+**Data Consultant @ Primary and Secondary Healthcare Department of Punjab - Lahore, Pakistan (_July 2017 - September 2017_)**
+
+_Skills: STATA, Data Cleaning, Forecasting, Data Analysis_
+- Countered medicine stock-outs at Basic Health Units in Punjab by predicting demand based on the historical medicine consumption of 4 districts, by using the framework developed by World Health Organization on STATA
 
 
 
