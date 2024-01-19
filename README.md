@@ -2,25 +2,56 @@
 
 #### Skills:
 _Machine Learning & Analytics: Scikit-Learn, SciPy, PyTorch, Spark ML/SQL, HDFS, Map-Reduce, AWS, STATA, Tableau, Excel_
+
 _Programming: Python (NumPy, Pandas, Scrapy, Beautiful Soup, Seaborn, Matplotlib, Altair, Dockers, Streamlit), SQL, Java_
+
 _Project & Product Management: Asana, JIRA, ClickUp, Instagantt (Gantt Charts), Figma, Draw.io, PowerPoint_
 
 ## Education						       		
-- M.S., Data Analytics | Carnegie Mellon University (_December 2023_)	 			        		
+- M.S., Data Analytics | Carnegie Mellon University (_December 2023_)
+  - Fulbright Scholarship (100% covered)
+  - Graduation with Distinction
+  - President Heinz Analytics Club (150+ members)             		
 - B.S., Economics | Lahore University of Management Sciences (_May 2017_)
+  - Bahria Town Scholarship (100% covered)
+  - Graduation with Distinction
+  - Dean's Honor List (all academic years)
 
 ## Projects
 ### Nexteer Global Automotive – Leveraging LLMs for Analytics
 _Skills: GPT-4, Large Language Model (LLM), Python, Streamlit, Cross-functional Teamwork_
-[Learn more](https://github.com/masadshoaib/Nexteer-CMU-Leveraging-Large-Language-Models-for-Analytics)
 
-Spearheaded the creation of a KPI summary web-application for Nexteer’s Procurement department by using GPT-4 to analyze PowerBI data, combating analysis paralysis and enhancing decision-making processes saving 50% in monthly report generation time
+Spearheaded the creation of a KPI summary web-application for Nexteer’s Procurement department by using GPT-4 to analyze PowerBI data, combating analysis paralysis and enhancing decision-making processes saving 50% in monthly report generation time. [Learn more](https://github.com/masadshoaib/Nexteer-CMU-Leveraging-Large-Language-Models-for-Analytics).
 
 ### YouTube – Optimizing Ad Experience for Gen Z
-_Skills: Python (Sci-kit Learn), BrandWatch_
-[Learn more](https://github.com/masadshoaib/YouTube-Optimizing-Ad-Experience-for-Gen-Z)
+_Skills: Python, Topic Modeling, Natural Language Processing, Latent Dirichlet Algorithm, Sentiment Analysis, BrandWatch_
 
-Conducted big data analytics with YouTube Ads team to understand Gen Z preferences for creator-brand collaborations, resulting in changes in YouTube platform UI and increasing ad engagement by 20%
+Conducted big data analytics with YouTube Ads team to understand Gen Z preferences for creator-brand collaborations, resulting in changes in YouTube platform UI and increasing ad engagement by 20%. [Learn more](https://github.com/masadshoaib/YouTube-Optimizing-Ad-Experience-for-Gen-Z).
+
+### Predictive Modeling and Investment Strategy for Loan Defaults
+_Skills: Python (Sci-kit Learn), End-to-end ML, Modeling and Evaluation_
+
+Leveraged predictive analytics models (Naïve Bayes, Lasso, Ridge, Random Forest, Decision Tree, Neural Network) to assess loan default likelihood, optimize model selection, implement ML-based investment strategies and evaluate returns using historical loan data. [Learn more](https://github.com/masadshoaib/Predictive-Modeling-and-Investment-Strategy-for-Loan-Defaults).
+
+### Mobile and Web Distributed Systems Application
+_Skills: Java, Web Service, API, Android, MongoDB_
+
+Created a distributed systems application comprising an Android mobile app, a web service connecting with a cloud-based RESTful service, and a dashboard for logging and basic analytics. [Learn more](https://github.com/masadshoaib/Android-Mobile-and-Web-App).
+
+### CipherCredit: Decoding Creditworthiness with Machine Learning
+_Skills: Python (Sci-kit Learn), End-to-end ML, MICE, Modeling and Evaluation_
+
+CipherCredit employs cutting-edge machine learning algorithms to revolutionize the credit card application review process, providing lenders with intelligent insights and enhancing accuracy in creditworthiness assessment for optimal decision-making. [Learn more](https://github.com/masadshoaib/CipherCredit-Decoding-Creditworthiness-with-ML).
+
+### Social Media Listening Using Natural Language Processing
+_Skills: Python, Natural Language Processing, Latent Dirichlet Algorithm, Sentiment Analysis, N-grams_
+
+Analyzed 37000 social media posts using text preprocessing and analytics such as stemming, POS tagging, topic modeling through Latent Dirichlet Algorithm, bigrams and sentiment analysis to understand customer expectations, knowledge gaps and views regarding continuous glucose monitoring devices. [Learn more](https://github.com/masadshoaib/Social-Media-Listening-Using-Natural-Language-Processing).
+
+### Understanding crypto currency price fluctuations
+_Skills: Python, API, Web Scraping, HV-Plot_
+
+Created a dashboard using hvplot which scraped crypto prices and economic indicators from the web, did a sentiment analysis of twitter, and plotted correlations amongst all. [Learn more](https://github.com/masadshoaib/CryptoCurrencyDashboard).
 
 ## Work Experience
 **Product Manager Intern (AI) @ 113Industries - Pittsburgh, USA (_July 2023 - August 2023_)**
@@ -59,44 +90,3 @@ _Skills: E-commerce, Leadership, Communication, Team Management_
 
 _Skills: STATA, Data Cleaning, Forecasting, Data Analysis_
 - Countered medicine stock-outs at Basic Health Units in Punjab by predicting demand based on the historical medicine consumption of 4 districts, by using the framework developed by World Health Organization on STATA
-
-
-
-
-## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
-
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
-
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
-
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
-
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
-
-![Bike Study](/assets/img/bike_study.jpeg)
-
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
-
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
-
-## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
-
-- [Data Science Blog](https://medium.com/@shawhin)
