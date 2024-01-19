@@ -8,22 +8,22 @@ _Programming: Python (NumPy, Pandas, Scrapy, Beautiful Soup, Seaborn, Matplotlib
 _Project & Product Management: Asana, JIRA, ClickUp, Instagantt (Gantt Charts), Figma, Draw.io, PowerPoint_
 
 ## Education						       		
-- M.S., Data Analytics | Carnegie Mellon University (_December 2023_)
+**- M.S., Data Analytics | Carnegie Mellon University (_December 2023_)**
   - Fulbright Scholarship (100% covered)
   - Graduation with Distinction
   - President Heinz Analytics Club (150+ members)             		
-- B.S., Economics | Lahore University of Management Sciences (_May 2017_)
+**- B.S., Economics | Lahore University of Management Sciences (_May 2017_)**
   - Bahria Town Scholarship (100% covered)
   - Graduation with Distinction
   - Dean's Honor List (all academic years)
 
 ## Projects
-### Nexteer Global Automotive – Leveraging LLMs for Analytics
+#### Nexteer Global Automotive – Leveraging LLMs for Analytics
 _Skills: GPT-4, Large Language Model (LLM), Python, Streamlit, Cross-functional Teamwork_
 
 Spearheaded the creation of a KPI summary web-application for Nexteer’s Procurement department by using GPT-4 to analyze PowerBI data, combating analysis paralysis and enhancing decision-making processes saving 50% in monthly report generation time. [Learn more](https://github.com/masadshoaib/Nexteer-CMU-Leveraging-Large-Language-Models-for-Analytics).
 
-### YouTube – Optimizing Ad Experience for Gen Z
+**YouTube – Optimizing Ad Experience for Gen Z**
 _Skills: Python, Topic Modeling, Natural Language Processing, Latent Dirichlet Algorithm, Sentiment Analysis, BrandWatch_
 
 Conducted big data analytics with YouTube Ads team to understand Gen Z preferences for creator-brand collaborations, resulting in changes in YouTube platform UI and increasing ad engagement by 20%. [Learn more](https://github.com/masadshoaib/YouTube-Optimizing-Ad-Experience-for-Gen-Z).
