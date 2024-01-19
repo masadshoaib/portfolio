@@ -1,4 +1,4 @@
-# Data Scientist x PM
+# Data Scientist x Product Manager
 
 ## Skills
 **Machine Learning & Analytics:** _Scikit-Learn, SciPy, PyTorch, Spark ML/SQL, HDFS, Map-Reduce, STATA, Tableau, Excel_
