@@ -1,19 +1,37 @@
 # Data Scientist x PM
 
-#### Skills:
-Machine Learning & Analytics: Scikit-Learn, SciPy, PyTorch, Spark ML/SQL, HDFS, Map-Reduce, AWS, STATA, Tableau, Excel
-Programming: Python (NumPy, Pandas, Scrapy, Beautiful Soup, Seaborn, Matplotlib, Altair, Dockers, Streamlit), SQL, Java
-Project & Product Management: Asana, JIRA, ClickUp, Instagantt (Gantt Charts), Figma, Draw.io, PowerPoint
+### Skills:
+#### Machine Learning & Analytics: 
+Scikit-Learn, SciPy, PyTorch, Spark ML/SQL, HDFS, Map-Reduce, AWS, STATA, Tableau, Excel
+#### Programming: 
+Python (NumPy, Pandas, Scrapy, Beautiful Soup, Seaborn, Matplotlib, Altair, Dockers, Streamlit), SQL, Java
+#### Project & Product Management: 
+Asana, JIRA, ClickUp, Instagantt (Gantt Charts), Figma, Draw.io, PowerPoint
 
 ## Education						       		
 - M.S., Data Analytics | Carnegie Mellon University (_December 2023_)	 			        		
 - B.S., Economics | Lahore University of Management Sciences (_May 2017_)
 
 ## Work Experience
-**Product Manager Intern (AI) @ 113Industries (_July 2023 - August 2023_)**
+**Product Manager Intern (AI) @ 113Industries - Pittsburgh, USA (_July 2023 - August 2023_)**
+#### Skills used: GPT-4, Large Language Model (LLM), Product Management, Consulting, Cross-functional Teamwork
 - Collaborated with Insights and Data Engineering teams to troubleshoot issues within 113 Industries' proprietary natural language processing tool, Jacquard AI, enhancing data-driven decision-making capabilities organization-wide
 - Identified and prioritized three automation opportunities, resulting in a 50% reduction in insight generation time
 - Led integration planning for large language models (LLMs) into Jacquard AI, developing a strategic roadmap in conjunction with Engineering leads to achieve a targeted 13% improvement in revenue attribution capabilities
+
+**Research Assistant @ Carnegie Mellon University - Pittsburgh, USA (_June 2023 - August 2023_)**
+#### Skills used: GPT-4, Large Language Model (LLM), Python
+- Worked with Professor David Steier, former Managing Director of Data Science at Deloitte, to incorporate generative AI into Carnegie Mellon's Data Science for Product Managers course. This experience has allowed me to stay on top of the latest advancements in AI and shape curriculum for future data science leaders.
+
+**Senior Client Services Manager (Data Analytics) @ WeCrunch - Ras-al-Khaima, UAE (_April 2020 - August 2022_)**
+#### Skills used: Product Management, Project Management, Cross-functional Team Leadership, Business Analytics, Data Analytics, Excel
+- Facilitated requirements gathering and translation into deliverables to ensure alignment between business needs and engineering, resulting in a 100% reduction in project scope creep
+- Led a 12-member cross-functional engineering team in developing consolidated databases, dashboards, and mobile/web apps ensuring impactful, scalable, tailor-made solutions using SCRUM methodologies - launching a record 4 products in 3 months
+- Collaborated with analytics leaders at Pepsi, Coty, and P&G (across regions) to resolve data related challenges, leading to improved client satisfaction and a 40% increase in project scope and monthly recurring revenue
+- Advocated for customer needs by shaping product requirements and creating roadmaps, mock-ups, and wireframes, resulting in a 30% acceleration in product (app / dashboard) development
+- Transformed Pepsi's sales reporting by automating manual Excel reports and distilling complex results into lucid visualizations in Tableau, resulting in a 50% reduction in report preparation time and a 20% enhancement in data accuracy
+
+
 
 
 ## Projects
