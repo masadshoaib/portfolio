@@ -2,13 +2,25 @@
 
 #### Skills:
 _Machine Learning & Analytics: Scikit-Learn, SciPy, PyTorch, Spark ML/SQL, HDFS, Map-Reduce, AWS, STATA, Tableau, Excel_
-
 _Programming: Python (NumPy, Pandas, Scrapy, Beautiful Soup, Seaborn, Matplotlib, Altair, Dockers, Streamlit), SQL, Java_
 _Project & Product Management: Asana, JIRA, ClickUp, Instagantt (Gantt Charts), Figma, Draw.io, PowerPoint_
 
 ## Education						       		
 - M.S., Data Analytics | Carnegie Mellon University (_December 2023_)	 			        		
 - B.S., Economics | Lahore University of Management Sciences (_May 2017_)
+
+## Projects
+### Nexteer Global Automotive – Leveraging LLMs for Analytics
+_Skills: GPT-4, Large Language Model (LLM), Python, Streamlit, Cross-functional Teamwork_
+[Learn more](https://github.com/masadshoaib/Nexteer-CMU-Leveraging-Large-Language-Models-for-Analytics)
+
+Spearheaded the creation of a KPI summary web-application for Nexteer’s Procurement department by using GPT-4 to analyze PowerBI data, combating analysis paralysis and enhancing decision-making processes saving 50% in monthly report generation time
+
+### YouTube – Optimizing Ad Experience for Gen Z
+_Skills: Python (Sci-kit Learn), BrandWatch_
+[Learn more](https://github.com/masadshoaib/YouTube-Optimizing-Ad-Experience-for-Gen-Z)
+
+Conducted big data analytics with YouTube Ads team to understand Gen Z preferences for creator-brand collaborations, resulting in changes in YouTube platform UI and increasing ad engagement by 20%
 
 ## Work Experience
 **Product Manager Intern (AI) @ 113Industries - Pittsburgh, USA (_July 2023 - August 2023_)**
