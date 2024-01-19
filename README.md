@@ -1,11 +1,11 @@
 # Data Scientist x PM
 
 #### Skills:
-_Machine Learning & Analytics: Scikit-Learn, SciPy, PyTorch, Spark ML/SQL, HDFS, Map-Reduce, AWS, STATA, Tableau, Excel_
+**Machine Learning & Analytics:** _Scikit-Learn, SciPy, PyTorch, Spark ML/SQL, HDFS, Map-Reduce, AWS, STATA, Tableau, Excel_
 
-_Programming: Python (NumPy, Pandas, Scrapy, Beautiful Soup, Seaborn, Matplotlib, Altair, Dockers, Streamlit), SQL, Java_
+**Programming:** _Python (NumPy, Pandas, Scrapy, Beautiful Soup, Seaborn, Matplotlib, Altair, Dockers, Streamlit), SQL, Java_
 
-_Project & Product Management: Asana, JIRA, ClickUp, Instagantt (Gantt Charts), Figma, Draw.io, PowerPoint_
+**Project & Product Management:** _Asana, JIRA, ClickUp, Instagantt (Gantt Charts), Figma, Draw.io, PowerPoint_
 
 ## Education						       		
 #### - M.S., Data Analytics | Carnegie Mellon University (_December 2023_)
@@ -84,3 +84,18 @@ _Skills: E-commerce, Leadership, Communication, Team Management_
 #### Data Consultant @ Primary and Secondary Healthcare Department of Punjab - Lahore, Pakistan (_July 2017 - September 2017_)
 _Skills: STATA, Data Cleaning, Forecasting, Data Analysis_
 - Countered medicine stock-outs at Basic Health Units in Punjab by predicting demand based on the historical medicine consumption of 4 districts, by using the framework developed by World Health Organization on STATA
+
+## Recommendations
+[Copied from my LinkedIn](https://www.linkedin.com/in/muhammad-asad-shoaib/details/recommendations/)
+
+#### Shu Jiang, Senior UX Designer @ Google
+I worked with Asad closely on the Measuring Social program. Asad has consistently demonstrated exceptional data analysis capabilities, extracting valuable insights from complex datasets. In addition to his analytical prowess, Asad has demonstrated remarkable leadership capabilities. He has a natural aptitude for inspiring and motivating team members, fostering a collaborative environment that encourages innovation and creativity. When the challenge of tools came up with the original approach, he was able to pivot quickly and develop a strategic path with the team. Also, his effective communication, and stakeholder management were instrumental in driving the successful outcome of the project. I was impressed by his high level of accountability and dedication. Asad will be an invaluable asset to any team.
+
+#### Shweta Madan, Senior Manager Insights @ Pepsi
+Asad brings with him a joyous attitude, a super collaborative approach, a desire to partner very effectively on solving client queries and issues. HIs very methodical approach, his clarity on the project at hand and his overall attitude makes him an absolute dream to work with. Thank you Asad, for being a great partner on our insights work. 
+
+#### Nihan Baki, Head of Consumer Market Insights & Data Analytics @ Coty
+Asad is a great partner for our data consolidation project. He understands the expectations and the business needs perfectly. In addition, it is always super easy to reach him. It is comforting to know that he is always on the other side of the phone to solve the problem. Thank you Asad for all the collaborative work!
+
+#### Adeel Farooqi, Founder & Managing Director @ WeCrunch
+Asad is an outstanding resource. He is highly reliable, shows strong ownership of his work, strong interpersonal skills, good leader and a thinking intellectual person, always eager to improve. I am sure Asad has a bright future ahead and a permanent place at WeCrunch.
