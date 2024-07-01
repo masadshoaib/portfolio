@@ -33,42 +33,6 @@ Asad is a great partner for our data consolidation project. He understands the e
 #### Adeel Farooqi, Founder & Managing Director @ WeCrunch
 Asad is an outstanding resource. He is highly reliable, shows strong ownership of his work, strong interpersonal skills, good leader and a thinking intellectual person, always eager to improve. I am sure Asad has a bright future ahead and a permanent place at WeCrunch.
 
-## Projects
-#### Nexteer Global Automotive – Leveraging LLMs for Analytics
-_Skills: GPT-4, Large Language Model (LLM), Python, Streamlit, Cross-functional Teamwork_
-
-Spearheaded the creation of a KPI summary web-application for Nexteer’s Procurement department by using GPT-4 to analyze PowerBI data, combating analysis paralysis and enhancing decision-making processes saving 50% in monthly report generation time. [Learn more](https://github.com/masadshoaib/Nexteer-CMU-Leveraging-Large-Language-Models-for-Analytics).
-
-#### YouTube – Optimizing Ad Experience for Gen Z
-_Skills: Python, Topic Modeling, Natural Language Processing, Latent Dirichlet Algorithm, Sentiment Analysis, BrandWatch_
-
-Conducted big data analytics with YouTube Ads team to understand Gen Z preferences for creator-brand collaborations, resulting in changes in YouTube platform UI and increasing ad engagement by 20%. [Learn more](https://github.com/masadshoaib/YouTube-Optimizing-Ad-Experience-for-Gen-Z).
-
-#### Predictive Modeling and Investment Strategy for Loan Defaults
-_Skills: Python (Sci-kit Learn), End-to-end ML, Modeling and Evaluation_
-
-Leveraged predictive analytics models (Naïve Bayes, Lasso, Ridge, Random Forest, Decision Tree, Neural Network) to assess loan default likelihood, optimize model selection, implement ML-based investment strategies and evaluate returns using historical loan data. [Learn more](https://github.com/masadshoaib/Predictive-Modeling-and-Investment-Strategy-for-Loan-Defaults).
-
-#### Mobile and Web Distributed Systems Application
-_Skills: Java, Web Service, API, Android, MongoDB_
-
-Created a distributed systems application comprising an Android mobile app, a web service connecting with a cloud-based RESTful service, and a dashboard for logging and basic analytics. [Learn more](https://github.com/masadshoaib/Android-Mobile-and-Web-App).
-
-#### CipherCredit: Decoding Creditworthiness with Machine Learning
-_Skills: Python (Sci-kit Learn), End-to-end ML, MICE, Modeling and Evaluation_
-
-CipherCredit employs cutting-edge machine learning algorithms to revolutionize the credit card application review process, providing lenders with intelligent insights and enhancing accuracy in creditworthiness assessment for optimal decision-making. [Learn more](https://github.com/masadshoaib/CipherCredit-Decoding-Creditworthiness-with-ML).
-
-#### Social Media Listening Using Natural Language Processing
-_Skills: Python, Natural Language Processing, Latent Dirichlet Algorithm, Sentiment Analysis, N-grams_
-
-Analyzed 37000 social media posts using text preprocessing and analytics such as stemming, POS tagging, topic modeling through Latent Dirichlet Algorithm, bigrams and sentiment analysis to understand customer expectations, knowledge gaps and views regarding continuous glucose monitoring devices. [Learn more](https://github.com/masadshoaib/Social-Media-Listening-Using-Natural-Language-Processing).
-
-#### Understanding crypto currency price fluctuations
-_Skills: Python, API, Web Scraping, HV-Plot_
-
-Created a dashboard using hvplot which scraped crypto prices and economic indicators from the web, did a sentiment analysis of twitter, and plotted correlations amongst all. [Learn more](https://github.com/masadshoaib/CryptoCurrencyDashboard).
-
 ## Work Experience
 #### AI Product Manager @ WeCrunch - Ras-Al-Khaima, UAE (_April 2024 - Present_)
 _Skills: Artificial Intelligence, LLMs, Forecasting, ML, Neural Networks_
@@ -105,3 +69,39 @@ _Skills: E-commerce, Leadership, Communication, Team Management_
 #### Data Consultant @ Primary and Secondary Healthcare Department of Punjab - Lahore, Pakistan (_July 2017 - September 2017_)
 _Skills: STATA, Data Cleaning, Forecasting, Data Analysis_
 - Countered medicine stock-outs at Basic Health Units in Punjab by predicting demand based on the historical medicine consumption of 4 districts, by using the framework developed by World Health Organization on STATA
+
+## Projects
+#### Nexteer Global Automotive – Leveraging LLMs for Analytics
+_Skills: GPT-4, Large Language Model (LLM), Python, Streamlit, Cross-functional Teamwork_
+
+Spearheaded the creation of a KPI summary web-application for Nexteer’s Procurement department by using GPT-4 to analyze PowerBI data, combating analysis paralysis and enhancing decision-making processes saving 50% in monthly report generation time. [Learn more](https://github.com/masadshoaib/Nexteer-CMU-Leveraging-Large-Language-Models-for-Analytics).
+
+#### YouTube – Optimizing Ad Experience for Gen Z
+_Skills: Python, Topic Modeling, Natural Language Processing, Latent Dirichlet Algorithm, Sentiment Analysis, BrandWatch_
+
+Conducted big data analytics with YouTube Ads team to understand Gen Z preferences for creator-brand collaborations, resulting in changes in YouTube platform UI and increasing ad engagement by 20%. [Learn more](https://github.com/masadshoaib/YouTube-Optimizing-Ad-Experience-for-Gen-Z).
+
+#### Predictive Modeling and Investment Strategy for Loan Defaults
+_Skills: Python (Sci-kit Learn), End-to-end ML, Modeling and Evaluation_
+
+Leveraged predictive analytics models (Naïve Bayes, Lasso, Ridge, Random Forest, Decision Tree, Neural Network) to assess loan default likelihood, optimize model selection, implement ML-based investment strategies and evaluate returns using historical loan data. [Learn more](https://github.com/masadshoaib/Predictive-Modeling-and-Investment-Strategy-for-Loan-Defaults).
+
+#### Mobile and Web Distributed Systems Application
+_Skills: Java, Web Service, API, Android, MongoDB_
+
+Created a distributed systems application comprising an Android mobile app, a web service connecting with a cloud-based RESTful service, and a dashboard for logging and basic analytics. [Learn more](https://github.com/masadshoaib/Android-Mobile-and-Web-App).
+
+#### CipherCredit: Decoding Creditworthiness with Machine Learning
+_Skills: Python (Sci-kit Learn), End-to-end ML, MICE, Modeling and Evaluation_
+
+CipherCredit employs cutting-edge machine learning algorithms to revolutionize the credit card application review process, providing lenders with intelligent insights and enhancing accuracy in creditworthiness assessment for optimal decision-making. [Learn more](https://github.com/masadshoaib/CipherCredit-Decoding-Creditworthiness-with-ML).
+
+#### Social Media Listening Using Natural Language Processing
+_Skills: Python, Natural Language Processing, Latent Dirichlet Algorithm, Sentiment Analysis, N-grams_
+
+Analyzed 37000 social media posts using text preprocessing and analytics such as stemming, POS tagging, topic modeling through Latent Dirichlet Algorithm, bigrams and sentiment analysis to understand customer expectations, knowledge gaps and views regarding continuous glucose monitoring devices. [Learn more](https://github.com/masadshoaib/Social-Media-Listening-Using-Natural-Language-Processing).
+
+#### Understanding crypto currency price fluctuations
+_Skills: Python, API, Web Scraping, HV-Plot_
+
+Created a dashboard using hvplot which scraped crypto prices and economic indicators from the web, did a sentiment analysis of twitter, and plotted correlations amongst all. [Learn more](https://github.com/masadshoaib/CryptoCurrencyDashboard).
