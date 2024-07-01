@@ -1,4 +1,4 @@
-# Data Scientist x Product Manager
+# AI x Data Scientist x Product Manager
 
 ## Skills
 **Machine Learning & Analytics:** _Scikit-Learn, SciPy, PyTorch, Spark ML/SQL, HDFS, Map-Reduce, STATA, Tableau, Excel_
@@ -70,6 +70,11 @@ _Skills: Python, API, Web Scraping, HV-Plot_
 Created a dashboard using hvplot which scraped crypto prices and economic indicators from the web, did a sentiment analysis of twitter, and plotted correlations amongst all. [Learn more](https://github.com/masadshoaib/CryptoCurrencyDashboard).
 
 ## Work Experience
+#### AI Product Manager @ WeCrunch - Ras-Al-Khaima, UAE (_April 2024 - Present_)
+_Skills: Artificial Intelligence, LLMs, Forecasting, ML, Neural Networks_
+- Implementing Time Series forecasting in Plexus using advanced techniques, including recently announced Foundational Models, Neural Networks, and traditional methods such as Facebook’s Prophet
+- Leading efforts to integrate generative AI into Plexus, enabling conversational Business Intelligence capabilities surpassing Tableau and PowerBI, enhancing data accessibility and insights derivation
+
 #### Product Manager Intern (AI) @ 113Industries - Pittsburgh, USA (_July 2023 - August 2023_)
 _Skills: GPT-4, Large Language Model (LLM), Product Management, Consulting, Cross-functional Teamwork_
 - Collaborated with Insights and Data Engineering teams to troubleshoot issues within 113 Industries' proprietary natural language processing tool, Jacquard AI, enhancing data-driven decision-making capabilities organization-wide
